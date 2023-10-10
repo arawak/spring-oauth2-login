@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-ouath2-login
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: CLIENT-ID
+            client-secret: CLIENT-SECRET
